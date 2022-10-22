@@ -1,2 +1,0 @@
-# Markerless AR
- HW
